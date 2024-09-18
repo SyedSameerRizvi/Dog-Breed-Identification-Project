@@ -27,11 +27,11 @@ The evaluation for this task is based on a multi-class classification metric, wh
 ### Model Architecture
 The notebook utilizes a pre-trained convolutional neural network (CNN) from TensorFlow Hub to extract features from the images and then applies fully connected layers to classify the breeds.
 
-### 5. Training
+### Training
 * The data was split into training and validation sets.
 * The model was trained on labeled images, and its performance was evaluated based on accuracy and loss metrics.
 
-## Installation and Setup
+## 5. Installation and Setup
 ### Requirements:
 * Python 3.x
 * TensorFlow 2.x
