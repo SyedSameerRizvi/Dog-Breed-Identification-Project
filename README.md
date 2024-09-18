@@ -6,6 +6,8 @@ The objective of this project is to classify the breed of a dog from a given ima
 
 Kaggle Competition: [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/overview)
 
+**NOTE: Use Google Colab's GPU for faster runtime.**
+
 ## 2. Dataset
 The dataset used is from the Kaggle competition mentioned above. It consists of thousands of images, with each image corresponding to one of 120 different dog breeds.
 
