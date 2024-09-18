@@ -1,4 +1,4 @@
-# Multi Class Dog Breed Classification Project
+# 🐶 Multi Class Dog Breed Classification Project
 This project demonstrates building an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub. The task is to identify the breed of a dog given an image, which involves deep learning techniques and transfer learning.
 
 ## 1. Problem
